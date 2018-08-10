@@ -1,1 +1,1 @@
-# p3.bio.exercises
+# Predictive Plant Phenomics Intro to Biopython Exercises
